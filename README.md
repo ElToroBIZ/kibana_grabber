@@ -1,2 +1,2 @@
 # kibana_grabber
-Grab data from open Kibana instances
+Grab data from insecure Kibana instance
